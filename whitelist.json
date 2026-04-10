@@ -1,0 +1,22 @@
+[
+    {
+        "key": "FLYCER-FREE-EVENT",
+        "type": "free",
+        "expire_timestamp": 1752710400
+    },
+    {
+        "key": "FLYCER-FREE-UNLIMITED",
+        "type": "free"
+    },
+    {
+        "key": "FLYCER-VIP-001",
+        "hwid": "A1B2C3D4-E5F6-7890-ABCD-1234567890EF",
+        "type": "lifetime"
+    },
+    {
+        "key": "FLYCER-PRO-002",
+        "hwid": "F9E8D7C6-B5A4-3210-FEDC-BA9876543210",
+        "type": "duration",
+        "expire_timestamp": 1755216000
+    }
+]
