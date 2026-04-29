@@ -26,5 +26,12 @@
     "hwid": "F9E8D7C6-B5A4-3210-FEDC-BA9876543210",
     "type": "duration",
     "expire_timestamp": 1755216000
+  },
+  {
+    "id": "KEY-03",
+    "owner": "NamaUserBaru",
+    "key": "8882C29ECAE7DA51536A9CF03FDEEFF9",
+    "hwid": "770D61CB-6259-685B-B5BF-71DAD1EB0ACF",
+    "type": "lifetime"
   }
 ]
