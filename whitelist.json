@@ -16,9 +16,9 @@
     "active": true
   },
   {
-    "key": "VIP",
+    "key": "Free Access",
     "hwid": "",
-    "type": "lifetime",
+    "type": "free",
     "expire_timestamp": 0,
     "note": "Andi - Lifetime member",
     "active": true
