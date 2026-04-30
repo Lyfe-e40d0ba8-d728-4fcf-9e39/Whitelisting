@@ -1,18 +1,18 @@
 [
   {
-    "key": "BUDI-VIP-24JAM",
+    "key": "Flycer_418420bb04a141a8861af7eedf0dcde7",
     "hwid": "98979566-bd8e-4f60-8e89-e83349ef99b4",
     "type": "duration",
-    "expire_timestamp": 1735689600,
-    "note": "Budi - Beli 24 jam",
+    "expire_timestamp": 0,
+    "note": "Nama - Beli 24 jam",
     "active": true
   },
   {
-    "key": "SITI-PREMIUM-7HARI",
+    "key": "Flycer_c3068491f76a4cf692e9c553569ca9d3",
     "hwid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
     "type": "duration",
-    "expire_timestamp": 1736294400,
-    "note": "Siti - Beli 7 hari",
+    "expire_timestamp": 0,
+    "note": "Nama - Beli 24 Jam",
     "active": true
   },
   {
@@ -20,15 +20,15 @@
     "hwid": "",
     "type": "free",
     "expire_timestamp": 0,
-    "note": "Andi - Lifetime member",
+    "note": "Nama - Free Lifetime member",
     "active": true
   },
   {
-    "key": "FREE-PUBLIC-001",
+    "key": "Free Access",
     "hwid": "",
     "type": "free",
-    "expire_timestamp": 1735689600,
-    "note": "Free key publik - 24 jam",
+    "expire_timestamp": 0,
+    "note": "Free key  - 6 jam",
     "active": true
   }
 ]
