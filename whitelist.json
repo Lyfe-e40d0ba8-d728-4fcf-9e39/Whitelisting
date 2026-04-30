@@ -1,7 +1,7 @@
 [
   {
     "key": "BUDI-VIP-24JAM",
-    "hwid": "F8A3C2D1-E5B4-9A7C-3F2E-8D1B6C4A5E9F",
+    "hwid": "98979566-bd8e-4f60-8e89-e83349ef99b4",
     "type": "duration",
     "expire_timestamp": 1735689600,
     "note": "Budi - Beli 24 jam",
@@ -9,7 +9,7 @@
   },
   {
     "key": "SITI-PREMIUM-7HARI",
-    "hwid": "A1B2C3D4-E5F6-7890-ABCD-EF1234567890",
+    "hwid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
     "type": "duration",
     "expire_timestamp": 1736294400,
     "note": "Siti - Beli 7 hari",
@@ -17,7 +17,7 @@
   },
   {
     "key": "ANDI-LIFETIME-VIP",
-    "hwid": "98979566-bd8e-4f60-8e89-e83349ef99b4",
+    "hwid": "f8a3c2d1-e5b4-9a7c-3f2e-8d1b6c4a5e9f",
     "type": "lifetime",
     "expire_timestamp": 0,
     "note": "Andi - Lifetime member",
@@ -30,21 +30,5 @@
     "expire_timestamp": 1735689600,
     "note": "Free key publik - 24 jam",
     "active": true
-  },
-  {
-    "key": "FREE-UNLIMITED",
-    "hwid": "",
-    "type": "free",
-    "expire_timestamp": 0,
-    "note": "Free key unlimited (testing)",
-    "active": true
-  },
-  {
-    "key": "REVOKED-KEY-EXAMPLE",
-    "hwid": "12345678-ABCD-EFGH-IJKL-MNOPQRSTUVWX",
-    "type": "duration",
-    "expire_timestamp": 1735689600,
-    "note": "Contoh key yang di-revoke",
-    "active": false
   }
 ]
