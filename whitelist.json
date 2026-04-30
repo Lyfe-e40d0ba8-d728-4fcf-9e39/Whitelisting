@@ -16,8 +16,8 @@
     "active": true
   },
   {
-    "key": "ANDI-LIFETIME-VIP",
-    "hwid": "98979566-bd8e-4f60-8e89-e83349ef99b4",
+    "key": "VIP",
+    "hwid": "",
     "type": "lifetime",
     "expire_timestamp": 0,
     "note": "Andi - Lifetime member",
