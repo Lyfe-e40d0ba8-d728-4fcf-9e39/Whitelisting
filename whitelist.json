@@ -1,37 +1,50 @@
 [
   {
-    "id": "KEY-ADMIN",
-    "owner": "Flycer",
-    "key": "Flycer-0005",
-    "type": "free",
-    "expire_timestamp": 1784598948
-  },
-  {
-    "id": "KEY-OWNER",
-    "owner": "Flycer",
-    "key": "Flycer-5000",
-    "type": "free"
-  },
-  {
-    "id": "KEY-01",
-    "owner": "Nama",
-    "key": "FLYCER-VIP-001",
-    "hwid": "A1B2C3D4-E5F6-7890-ABCD-1234567890EF",
-    "type": "lifetime"
-  },
-  {
-    "id": "KEY-02",
-    "owner": "Nama",
-    "key": "FLYCER-PRO-002",
-    "hwid": "F9E8D7C6-B5A4-3210-FEDC-BA9876543210",
+    "key": "BUDI-VIP-24JAM",
+    "hwid": "F8A3C2D1-E5B4-9A7C-3F2E-8D1B6C4A5E9F",
     "type": "duration",
-    "expire_timestamp": 1755216000
+    "expire_timestamp": 1735689600,
+    "note": "Budi - Beli 24 jam",
+    "active": true
   },
   {
-    "id": "KEY-03",
-    "owner": "NamaUserBaru",
-    "key": "8882C29ECAE7DA51536A9CF03FDEEFF9",
-    "hwid": "770D61CB-6259-685B-B5BF-71DAD1EB0ACF",
-    "type": "lifetime"
+    "key": "SITI-PREMIUM-7HARI",
+    "hwid": "A1B2C3D4-E5F6-7890-ABCD-EF1234567890",
+    "type": "duration",
+    "expire_timestamp": 1736294400,
+    "note": "Siti - Beli 7 hari",
+    "active": true
+  },
+  {
+    "key": "ANDI-LIFETIME-VIP",
+    "hwid": "9F8E7D6C-5B4A-3210-FEDC-BA9876543210",
+    "type": "lifetime",
+    "expire_timestamp": 0,
+    "note": "Andi - Lifetime member",
+    "active": true
+  },
+  {
+    "key": "FREE-PUBLIC-001",
+    "hwid": "",
+    "type": "free",
+    "expire_timestamp": 1735689600,
+    "note": "Free key publik - 24 jam",
+    "active": true
+  },
+  {
+    "key": "FREE-UNLIMITED",
+    "hwid": "",
+    "type": "free",
+    "expire_timestamp": 0,
+    "note": "Free key unlimited (testing)",
+    "active": true
+  },
+  {
+    "key": "REVOKED-KEY-EXAMPLE",
+    "hwid": "12345678-ABCD-EFGH-IJKL-MNOPQRSTUVWX",
+    "type": "duration",
+    "expire_timestamp": 1735689600,
+    "note": "Contoh key yang di-revoke",
+    "active": false
   }
 ]
